@@ -1,5 +1,7 @@
 # The Magento Security Toolkit (MST) #
 
+[![Join the chat at https://gitter.im/beejhuff/magento-security-toolkit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/beejhuff/magento-security-toolkit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Join the chat at https://gitter.im/comitdevelopers/magento-security-toolkit](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/comitdevelopers/magento-security-toolkit?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ***IMPORTANT NOTE*** Our current research on known attack signatures related to SUPEE-5344 and SUPEE-5994 is [briefly summarised in the this PDF document](https://github.com/comitdevelopers/magento-security-toolkit/blob/master/Comit%20Developers-%20Analysis-%20Mitigation-%20and%20Remediation%20of%20Issues%20addressed%20by%20SUPEE-5344&%20SUPEE-5994.pdf) - please review it and let us know if you have identified any additional signatures which we have not yet documented.  You can submit signatures or any other feedback via
